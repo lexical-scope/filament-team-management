@@ -1,5 +1,5 @@
 {
-    "name": "stats4sd/filament-team-management",
+    "name": "lexical-scope/filament-team-management",
     "description": "Package for an opinionated 'teams' setup, including invites and integration with Laravel Filament + Spatie User Roles",
     "keywords": [
         "stats4sd",
